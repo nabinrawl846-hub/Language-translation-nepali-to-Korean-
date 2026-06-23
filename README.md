@@ -3,3 +3,4 @@ contbriting big apps
  pytan and java  cooding typing 
 Flutter + GPS + Backend + Database
 Mobile Development + Video Processing + Cloud
+AI + Mobile Apps
